@@ -21,7 +21,7 @@ The following technology & libraries are used in this project
 
 ### Future Improvements
 In future projects, I aim to enhance the accuracy of these insights by refining the outlier removal techniques, as suggested by exploratory data analysis (EDA). 
-Furthermore, I plan to take a step forward by incorporating predictive modeling based on the historical analysis, providing users with even more proactive and precise decision-making capabilities.
+Furthermore, I plan to take a step forward by incorporating predictive modeling based on the historical analysis performed, providing users with even more proactive and precise decision-making capabilities.
 
 
 
