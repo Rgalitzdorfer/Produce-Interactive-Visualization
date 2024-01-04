@@ -7,7 +7,7 @@ The following data science concepts are used in this project
 
 1. Data loading from a csv
 2. Data cleaning (Outlier removal, dealing with null values, making data numeric)
-3. EDA
+3. EDA (Understand statistical distribution)
 4. Feature Engineering (Make data more suitable for solving the problem)
 5. Visualization (Create a user-friendly dashboard for seamless access to produce pricing information.)
 
